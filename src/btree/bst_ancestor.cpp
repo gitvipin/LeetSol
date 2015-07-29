@@ -1,5 +1,7 @@
 
-//https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+//Solution for problem: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+
+
 TreeNode* findR(TreeNode* root, TreeNode* p, TreeNode* q)
 {
     if (root == p || root == q)
