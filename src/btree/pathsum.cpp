@@ -1,4 +1,4 @@
-// Problem : https://leetcode.com/problems/path-sum/
+// Solution for problem : https://leetcode.com/problems/path-sum/
 
 bool hasPathSum(TreeNode* root, int sum) {
     if (!root) {
