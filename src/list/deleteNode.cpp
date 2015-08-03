@@ -1,5 +1,6 @@
 /*
 Solution for Problem: https://leetcode.com/problems/delete-node-in-a-linked-list/
+Delete any but last node in Linked List.
 */
 
 void deleteNode(ListNode* node) {
