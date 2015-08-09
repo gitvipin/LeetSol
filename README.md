@@ -27,3 +27,4 @@ Num | Problem | Tags | Solution
 17 | [Merge two sorted lists]  (https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/removeNthFromEnd.cpp)
 18 | [Insertion Sort : Linked List]  (https://leetcode.com/problems/insertion-sort-list/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/insertionSortList.cpp)
 19 | [Linked List : Get cycle loop head ]  (https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/loopHead.cpp)
+20 | [Linked List : check if list has cycle ]  (https://leetcode.com/problems/linked-list-cycle/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/hasCycle.cpp)
