@@ -28,3 +28,5 @@ Num | Problem | Tags | Solution
 18 | [Insertion Sort : Linked List]  (https://leetcode.com/problems/insertion-sort-list/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/insertionSortList.cpp)
 19 | [Linked List : Get cycle loop head ]  (https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/loopHead.cpp)
 20 | [Linked List : check if list has cycle ]  (https://leetcode.com/problems/linked-list-cycle/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/hasCycle.cpp)
+21 | [Linked List : Reverse subset of List ]  (https://leetcode.com/problems/reverse-linked-list-ii/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/reverseListSubset.cpp)
+22 | [Linked List : Keep only unique elements. Remove duplicate elements. ]  (https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/keepUniqueList.cpp)
