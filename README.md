@@ -30,3 +30,6 @@ Num | Problem | Tags | Solution
 20 | [Linked List : check if list has cycle ]  (https://leetcode.com/problems/linked-list-cycle/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/hasCycle.cpp)
 21 | [Linked List : Reverse subset of List ]  (https://leetcode.com/problems/reverse-linked-list-ii/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/reverseListSubset.cpp)
 22 | [Linked List : Keep only unique elements. Remove duplicate elements. ]  (https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/keepUniqueList.cpp)
+23 | [Linked List : Swap adjacent nodes in Linked list ]  (https://leetcode.com/problems/swap-nodes-in-pairs/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/swapNodes.cpp)
+24 | [Linked List : Reorder nodes in Linked List ]  (https://leetcode.com/problems/reorder-list/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/reorderList.cpp)
+25 | [Linked List : Make a copy of Linked list with random pointer ]  (https://leetcode.com/problems/copy-list-with-random-pointer/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/randomPtrList.cpp)
