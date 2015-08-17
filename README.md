@@ -33,3 +33,6 @@ Num | Problem | Tags | Solution
 23 | [Linked List : Swap adjacent nodes in Linked list ]  (https://leetcode.com/problems/swap-nodes-in-pairs/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/swapNodes.cpp)
 24 | [Linked List : Reorder nodes in Linked List ]  (https://leetcode.com/problems/reorder-list/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/reorderList.cpp)
 25 | [Linked List : Make a copy of Linked list with random pointer ]  (https://leetcode.com/problems/copy-list-with-random-pointer/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/randomPtrList.cpp)
+26 | [Linked List : Balanced Binary Search Tree ]  (https://leetcode.com/problems/balanced-binary-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/isBalancedBTree.cpp)
+27 | [Linked List : Same Tree ]  (https://leetcode.com/problems/same-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/sameTree.cpp)
+28 | [Linked List : Binary Tree (inverted) Level Order Traversal ]  (https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/levelOrderII.cpp)
