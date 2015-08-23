@@ -39,4 +39,5 @@ Num | Problem | Tags | Solution
 29 | [ Binary Tree Path sum II ]  (https://leetcode.com/problems/path-sum-ii/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/PathSumII.cpp)
 30 | [ Binary Tree Level Order Traversal ]  (https://leetcode.com/problems/binary-tree-level-order-traversal/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/BTreeLevelOrder.cpp)
 31 | [ Binary Tree Paths ]  (https://leetcode.com/problems/binary-tree-paths/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/allPaths.cpp)
-31 | [ Binary Tree Paths ]  (https://leetcode.com/problems/binary-tree-paths/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/allPaths.cpp)
+32 | [ Max depth ]  (https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/maxDepth.cpp)
+33 | [ Min depth ]  (https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/minDepth.cpp)
