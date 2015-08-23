@@ -1,5 +1,5 @@
 /*
-Solution for : https://leetcode.com/problems/maximum-depth-of-binary-tree/
+Solution for: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 */
 
 int getMaxDepth(TreeNode *root, int level) {
