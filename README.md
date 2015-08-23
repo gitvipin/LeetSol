@@ -42,3 +42,4 @@ Num | Problem | Tags | Solution
 32 | [ Max depth ]  (https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/maxDepth.cpp)
 33 | [ Min depth ]  (https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/minDepth.cpp)
 34 | [ Symmetric Tree ]  (https://leetcode.com/problems/symmetric-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/sameTree.cpp)
+34 | [ Binary Tree Pre-Order Traversal ]  (https://leetcode.com/problems/binary-tree-preorder-traversal/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/preOrder.cpp)
