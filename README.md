@@ -36,3 +36,7 @@ Num | Problem | Tags | Solution
 26 | [ Balanced Binary Search Tree ]  (https://leetcode.com/problems/balanced-binary-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/isBalancedBTree.cpp)
 27 | [ Same Tree ]  (https://leetcode.com/problems/same-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/sameTree.cpp)
 28 | [ Binary Tree (inverted) Level Order Traversal ]  (https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/levelOrderII.cpp)
+29 | [ Binary Tree Path sum II ]  (https://leetcode.com/problems/path-sum-ii/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/PathSumII.cpp)
+30 | [ Binary Tree Level Order Traversal ]  (https://leetcode.com/problems/binary-tree-level-order-traversal/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/BTreeLevelOrder.cpp)
+31 | [ Binary Tree Paths ]  (https://leetcode.com/problems/binary-tree-paths/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/allPaths.cpp)
+31 | [ Binary Tree Paths ]  (https://leetcode.com/problems/binary-tree-paths/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/allPaths.cpp)
