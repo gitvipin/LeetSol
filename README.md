@@ -43,3 +43,4 @@ Num | Problem | Tags | Solution
 33 | [ Min depth ]  (https://leetcode.com/problems/minimum-depth-of-binary-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/minDepth.cpp)
 34 | [ Symmetric Tree ]  (https://leetcode.com/problems/symmetric-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/sameTree.cpp)
 35 | [ Binary Tree Pre-Order Traversal ]  (https://leetcode.com/problems/binary-tree-preorder-traversal/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/preOrder.cpp)
+36 | [ Binary Search Tree Iterator ]  (https://leetcode.com/problems/binary-search-tree-iterator/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/BSTIterator.cpp)
