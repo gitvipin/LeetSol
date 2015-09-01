@@ -31,3 +31,34 @@ bool isIsomorphic(string s, string t) {
         }
         return true;
     }
+
+
+bool isIsomorphic_slow(string s, string t) {
+        if (s.length() != t.length())
+            return false;
+        else if (s.empty() && t.empty())
+            return true;
+            
+        const char *ss = s.c_str();
+        const char *tt = t.c_str();
+        
+        std::map<char, char> tbl, tblR;
+        
+        while (char cs = *ss++) {
+            char ct = *tt++;
+            map<char, char>::iterator iters, itert;
+            iters = tbl.find(cs);
+            itert = tblR.find(ct);
+            
+            if (iters == tbl.end() && itert == tblR.end()) {
+                tbl[cs] = ct;
+                tblR[ct] = cs;
+            } else if (iters != tbl.end() && itert != tblR.end()){
+                if (tbl[cs] != ct || tblR[ct] != cs)
+                    return false;
+            } else {
+                return false;
+            }
+        }
+        return true;
+    }
