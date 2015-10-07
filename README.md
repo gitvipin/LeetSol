@@ -55,3 +55,5 @@ Num | Problem | Tags | Solution
 45 | [ Count Primes ]  (https://leetcode.com/problems/missing-number/) | Math | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/math/missingNumber.cpp)
 46 | [ House Robber ]  (https://leetcode.com/problems/house-robber/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/HouseRobber.cpp)
 47 | [ Climbing Stairs ]  (https://leetcode.com/problems/climbing-stairs/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/ClimbingStairs.cpp)
+48 | [ Minimum Path Sum ]  (https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/MinPathSum.cpp)
+49 | [ Ugly Number II ]  (https://leetcode.com/problems/ugly-number-ii/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/UglyNumberII.cpp)
