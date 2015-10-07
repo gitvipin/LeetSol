@@ -2,7 +2,9 @@
 
 LeetSol is the compilation of solutions to the problems on LeetCode (https://leetcode.com/problemset/algorithms/). Most of the solutions are implemented using C++ but some are in C as well. All of these solutions have been tested with the LeetCode submission process. 
 
-The aim of this repository is to be the single point for checking solution to the problems. These solutions might not be perfect but cetrainly provide an alternative thought and way of implementation. Any links to better implementations are highly appreciated and will be added in here. 
+The aim of this repository is to be the single point for checking solution to the problems. These solutions might not be perfect but cetrainly provide an alternative thought and way of implementation. Suggestions for improvement are highly appreciated. 
+
+Revisit Column has been marked with '*' or 'Y' in the cases where the proposed solution was not the best in runtime in comparison to other submissions.
 
 
 
