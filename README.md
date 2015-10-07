@@ -6,8 +6,8 @@ The aim of this repository is to be the single point for checking solution to th
 
 
 
-Num | Problem | Tags | Solution
-:-------------: | :------------- | :------------- | :-------------
+Num | Problem | Tags | Solution | Revisit
+:-------------: | :------------- | :------------- | :------------- | :-------------
 1 | [Delete Node from Singly Linked List]  (https://leetcode.com/problems/delete-node-in-a-linked-list/)| Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/deleteNode.cpp)
 2 | [Delete nth node from end in the Linked List]  (https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/deleteNodeFromEnd.cpp)
 3 | [Find Intersection of Two Linked Lists]  (https://leetcode.com/problems/intersection-of-two-linked-lists/) |Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/list_intersection.cpp)
@@ -56,4 +56,4 @@ Num | Problem | Tags | Solution
 46 | [ House Robber ]  (https://leetcode.com/problems/house-robber/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/HouseRobber.cpp)
 47 | [ Climbing Stairs ]  (https://leetcode.com/problems/climbing-stairs/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/ClimbingStairs.cpp)
 48 | [ Minimum Path Sum ]  (https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/MinPathSum.cpp)
-49 | [ Ugly Number II ]  (https://leetcode.com/problems/ugly-number-ii/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/UglyNumberII.cpp)
+49 | [ Ugly Number II ]  (https://leetcode.com/problems/ugly-number-ii/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/UglyNumberII.cpp) | *
