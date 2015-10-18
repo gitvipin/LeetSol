@@ -60,3 +60,4 @@ Num | Problem | Tags | Solution | Revisit
 48 | [ Minimum Path Sum ]  (https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/MinPathSum.cpp)
 49 | [ Ugly Number II ]  (https://leetcode.com/problems/ugly-number-ii/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/UglyNumberII.cpp) | *
 50 | [ Spiral Matrix ]  (https://leetcode.com/problems/spiral-matrix/) | Matrix | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/matrix/SpiralMatrix.cpp)
+51 | [ Single Number ]  (https://leetcode.com/problems/single-number/) | Matrix | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/SingleNumber.cpp) | *
