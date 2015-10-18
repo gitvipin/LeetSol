@@ -59,3 +59,4 @@ Num | Problem | Tags | Solution | Revisit
 47 | [ Climbing Stairs ]  (https://leetcode.com/problems/climbing-stairs/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/ClimbingStairs.cpp)
 48 | [ Minimum Path Sum ]  (https://leetcode.com/problems/minimum-path-sum/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/MinPathSum.cpp)
 49 | [ Ugly Number II ]  (https://leetcode.com/problems/ugly-number-ii/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/UglyNumberII.cpp) | *
+50 | [ Spiral Matrix ]  (https://leetcode.com/problems/spiral-matrix/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/matrix/SpiralMatrix.cpp)
