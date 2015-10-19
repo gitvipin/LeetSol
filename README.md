@@ -61,4 +61,4 @@ Num | Problem | Tags | Solution | Revisit
 49 | [ Ugly Number II ]  (https://leetcode.com/problems/ugly-number-ii/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/UglyNumberII.cpp) | *
 50 | [ Spiral Matrix ]  (https://leetcode.com/problems/spiral-matrix/) | Matrix | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/matrix/SpiralMatrix.cpp)
 51 | [ Single Number ]  (https://leetcode.com/problems/single-number/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/SingleNumber.cpp) | *
-51 | [ Best time to Buy/Sell Stocks ]  (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Array, Greedy Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/StockPrice.cpp) | *
+51 | [ Best time to Buy/Sell Stocks ]  (https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Array, Greedy Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/StockPrice.cpp) 
