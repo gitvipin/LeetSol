@@ -46,6 +46,7 @@ int maxProfit(vector<int>& prices) {
     }
 
 /*
+Solution for : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 This is not the solution to original problem. But it is the solution to the same problem 
 if it were modified slightly to allow only single transaction.
 
