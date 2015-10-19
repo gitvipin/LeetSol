@@ -22,10 +22,22 @@ int maxProfit(vector<int>& prices) {
             
         int min = prices[0];
         gain = 0;
+        /*
         for (size_t i = 1; i < count;) {
             int curr = prices[i++];
             if (curr >= prices[i-2]) { // increasing sequence 
                 if (i == count || prices[i] < curr)
+                    gain += curr - min;
+            } else 
+                min = curr;
+        }
+        */
+        // Above for loop does the same thing but the following one is running faster on LeetCode servers
+        // Perhaps optimization can happen better if [i-2] indices is not required to be accessed.
+        for (size_t i = 1; i < count;i++) {
+            int curr = prices[i];
+            if (curr >= prices[i-1]) { // increasing sequence 
+                if (i+1 == count || prices[i+1] < curr)
                     gain += curr - min;
             } else 
                 min = curr;
