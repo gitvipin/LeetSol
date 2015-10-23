@@ -65,3 +65,4 @@ Num | Problem | Tags | Solution | Revisit
 53 | [ Best time to Buy/Sell Stocks ]  (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Array, Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/StockPrice.cpp) 
 54 | [ Product of Array except Self ]  (https://leetcode.com/problems/product-of-array-except-self/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/productExceptSelf.cpp) | *
 55 | [ Binary Tree Inorder traversal  (non-recursive) ]  (https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/inOrder.cpp) 
+56 | [ Populating Next Right pointers in Binary Tree ]  (https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/nextRight.cpp) | *
