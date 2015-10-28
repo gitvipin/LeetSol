@@ -67,3 +67,4 @@ Num | Problem | Tags | Solution | Revisit
 55 | [ Binary Tree Inorder traversal  (non-recursive) ]  (https://leetcode.com/problems/binary-tree-inorder-traversal/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/inOrder.cpp) 
 56 | [ Populating Next Right pointers in Binary Tree ]  (https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/nextRight.cpp) | *
 57 | [ Unique Binary Search tree ]  (https://leetcode.com/problems/unique-binary-search-trees/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/uniqueBSTCount.cpp)
+58 | [ Search Insert Position ]  (https://leetcode.com/problems/search-insert-position/) | Array, Binary Search | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/searchInsertPosition.cpp)
