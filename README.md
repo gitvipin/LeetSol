@@ -68,4 +68,4 @@ Num | Problem | Tags | Solution | Revisit
 56 | [ Populating Next Right pointers in Binary Tree ]  (https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/nextRight.cpp) | *
 57 | [ Unique Binary Search tree ]  (https://leetcode.com/problems/unique-binary-search-trees/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/uniqueBSTCount.cpp)
 58 | [ Search Insert Position ]  (https://leetcode.com/problems/search-insert-position/) | Array, Binary Search | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/searchInsertPosition.cpp)
-59 | [ Single Number III ]  (https://leetcode.com/problems/single-number-iii/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/SingleNumberIII.cpp) | *
+59 | [ Single Number III ]  (https://leetcode.com/problems/single-number-iii/) | Bit Manipulation | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/SingleNumberIII.cpp) | *
