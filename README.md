@@ -52,7 +52,7 @@ Num | Problem | Tags | Solution | Revisit
 40 | [ Containes Duplicate II ]  (https://leetcode.com/problems/contains-duplicate-ii/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/ContainsDuplicateII.cpp)
 41 | [ Ugly Number ]  (https://leetcode.com/problems/ugly-number/) | Math | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/math/UglyNumber.cpp)
 42 | [ Excel Sheet Column Number ]  (https://leetcode.com/problems/excel-sheet-column-number/) | String | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/strings/ExcelSheetColumnNumber.cpp)
-43 | [ Number of 1 bits ]  (https://leetcode.com/problems/number-of-1-bits/) | Bit Processing | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/HammingWeight.cpp)
+43 | [ Number of 1 bits ]  (https://leetcode.com/problems/number-of-1-bits/) | Bit Manipulation | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/HammingWeight.cpp)
 44 | [ Missing Number ]  (https://leetcode.com/problems/missing-number/) | Math | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/math/missingNumber.cpp)
 45 | [ Count Primes ]  (https://leetcode.com/problems/missing-number/) | Math | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/math/missingNumber.cpp)
 46 | [ House Robber ]  (https://leetcode.com/problems/house-robber/) | Dynamic Programming | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/DP/HouseRobber.cpp)
