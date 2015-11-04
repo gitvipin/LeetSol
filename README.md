@@ -69,3 +69,4 @@ Num | Problem | Tags | Solution | Revisit
 57 | [ Unique Binary Search tree ]  (https://leetcode.com/problems/unique-binary-search-trees/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/uniqueBSTCount.cpp)
 58 | [ Search Insert Position ]  (https://leetcode.com/problems/search-insert-position/) | Array, Binary Search | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/searchInsertPosition.cpp)
 59 | [ Single Number III ]  (https://leetcode.com/problems/single-number-iii/) | Bit Manipulation | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/SingleNumberIII.cpp) | *
+60 | [ Unique Binary Search tree II ]  (https://leetcode.com/problems/unique-binary-search-trees-ii/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/uniqueBSTGenerate.cpp) | *
