@@ -26,7 +26,10 @@ TreeNode *generateR(vector<int>& nums, size_t beg, size_t end) {
         if (beg > end || beg >= count)
             return root;
         
+        // use of std::ceil ensures that LHS has of root has more elements 
+        // than right.
         size_t mid = std::ceil((beg + end)/2.0);
+        
         root = new TreeNode(nums[mid]);
         if (beg != end) {
             root->left = generateR(nums,beg, mid-1);
@@ -35,4 +38,4 @@ TreeNode *generateR(vector<int>& nums, size_t beg, size_t end) {
         return root;
     }
     
-    
+//FOLLOW UP : Try without recursion. HINT: std::queue<std::pair<int_beg, int_end> >
