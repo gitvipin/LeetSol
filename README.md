@@ -70,4 +70,4 @@ Num | Problem | Tags | Solution | Revisit
 58 | [ Search Insert Position ]  (https://leetcode.com/problems/search-insert-position/) | Array, Binary Search | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/searchInsertPosition.cpp)
 59 | [ Single Number III ]  (https://leetcode.com/problems/single-number-iii/) | Bit Manipulation | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/SingleNumberIII.cpp) | *
 60 | [ Unique Binary Search tree II ]  (https://leetcode.com/problems/unique-binary-search-trees-ii/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/uniqueBSTGenerate.cpp) | *
-61 | [ Convert Sorted Array to BST ]  (https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Array, Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/sortedArrayToBST.cpp) | * beats 20%
+61 | [ Convert Sorted Array to BST ]  (https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Array, Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/sortedArrayToBST.cpp) | * 20%
