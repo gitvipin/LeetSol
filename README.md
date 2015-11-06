@@ -71,3 +71,6 @@ Num | Problem | Tags | Solution | Revisit
 59 | [ Single Number III ]  (https://leetcode.com/problems/single-number-iii/) | Bit Manipulation | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/SingleNumberIII.cpp) | *
 60 | [ Unique Binary Search tree II ]  (https://leetcode.com/problems/unique-binary-search-trees-ii/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/uniqueBSTGenerate.cpp) | *
 61 | [ Convert Sorted Array to BST ]  (https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Array, Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/sortedArrayToBST.cpp) | * 20%
+62 | [ Maximum Subarray ]  (https://leetcode.com/problems/maximum-subarray/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/maxSubArray.cpp) | *
+63 | [ Find minimum in Rotated Sorted Array ]  (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/findMinArray.cpp) | *
+64 | [ Unique Paths ]  (https://leetcode.com/problems/unique-paths/) | Array, Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/uniquePaths.cpp) | 0 ms
