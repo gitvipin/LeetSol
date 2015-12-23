@@ -76,3 +76,4 @@ Num | Problem | Tags | Solution | Revisit
 64 | [ Unique Paths ]  (https://leetcode.com/problems/unique-paths/) | Array, Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/uniquePaths.cpp) |
 65 | [ Kth smallest element in BST ]  (https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Binary Search Tree, DFS | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/kthSmallestBST.cpp) |
 66 | [ Nim Game ]  (https://leetcode.com/problems/nim-game/) | Dynamic Programming, Misc | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/nimGame.cpp) |
+67 | [ Add Digits ]  (https://leetcode.com/problems/add-digits/) | Misc, Recursion | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/adddDigitByDigitalRoot.cpp) |
