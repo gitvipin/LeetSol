@@ -75,3 +75,4 @@ Num | Problem | Tags | Solution | Revisit
 63 | [ Find minimum in Rotated Sorted Array ]  (https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/findMinArray.cpp) | 
 64 | [ Unique Paths ]  (https://leetcode.com/problems/unique-paths/) | Array, Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/uniquePaths.cpp) |
 65 | [ Kth smallest element in BST ]  (https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Binary Search Tree, DFS | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/kthSmallestBST.cpp) |
+66 | [ Nim Game ]  (https://leetcode.com/problems/nim-game/) | Dynamic Programming, Misc | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/nimGame.cpp) |
