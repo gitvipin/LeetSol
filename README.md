@@ -78,3 +78,4 @@ Num | Problem | Tags | Solution | Revisit
 66 | [ Nim Game ]  (https://leetcode.com/problems/nim-game/) | Dynamic Programming, Misc | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/nimGame.cpp) |
 67 | [ Add Digits ]  (https://leetcode.com/problems/add-digits/) | Misc, Recursion | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/adddDigitByDigitalRoot.cpp) |
 68 | [ Move Zeroes ]  (https://leetcode.com/problems/move-zeroes/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/moveZeroes.cpp) | * 20%
+69 | [ Majority Element ]  (https://leetcode.com/problems/majority-element/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/majorityElement.cpp) | * 40%
