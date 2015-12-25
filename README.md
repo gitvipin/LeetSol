@@ -79,3 +79,4 @@ Num | Problem | Tags | Solution | Revisit
 67 | [ Add Digits ]  (https://leetcode.com/problems/add-digits/) | Misc, Recursion | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/adddDigitByDigitalRoot.cpp) |
 68 | [ Move Zeroes ]  (https://leetcode.com/problems/move-zeroes/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/moveZeroes.cpp) | * 20%
 69 | [ Majority Element ]  (https://leetcode.com/problems/majority-element/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/majorityElement.cpp) | * 40%
+70 | [ Valid Parenthesis ]  (https://leetcode.com/problems/valid-parentheses/) | Stack | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/Stack/ValidParenthesis.cpp) | 
