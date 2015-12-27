@@ -103,3 +103,63 @@ int maxProduct(vector<string>& words) {
         
         return prod;
     }
+
+
+
+int maxProduct(vector<string>& words) {
+        size_t sz = words.size();
+        
+        if (!sz)
+            return 0;
+        
+#if 0
+        /* *********** Pre process Input ************** */
+        // (1) Sort the strings to align chracters in increasing order
+        for (auto it = words.begin(); it != words.end(); it++)
+            std::sort(it->begin(), it->end());
+        
+        // (2) Remove Duplicates
+        std::sort(words.begin(), words.end());
+        words.erase( unique( words.begin(), words.end() ), words.end() );
+#endif        
+        // (3) Sort the Vector based on length
+        compare comp;
+        std::sort(words.begin(), words.end(), comp);
+        
+        
+        /* *********** Build Database ************** */
+        std::map<int , std::pair<size_t,  long int > > db;
+        
+        // Build the database of set of characters in every string
+        for (int i = 0; i < sz; i++) {
+            long int bitVec = 0;
+            size_t length = 0;
+            
+            const char *str = words[i].c_str();
+            while (char ch = str[length++])
+                bitVec |= 0x1 << (ch - '0');
+            
+            db[i] = std::make_pair(length-1, bitVec);
+        }
+        
+        int prod = 0;
+        for (int i = sz; i >= 0; i--) {
+            if (i*i < prod) break;// early pruning
+            int len = 0;
+            for (int j = i; j >= 0; j--) {
+                if ( i * j < prod) break; // early pruning
+                if (i == j || (db[i].second & db[j].second))
+                    continue;
+                len = db[j].first;
+                break;
+            }
+            
+            if (len) {
+            int newProd = len * db[i].first;
+            prod = std::max(prod, newProd);
+            }
+        }
+        
+        return prod;
+    }
+
