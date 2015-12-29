@@ -81,3 +81,5 @@ Num | Problem | Tags | Solution | Revisit
 69 | [ Majority Element ]  (https://leetcode.com/problems/majority-element/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/majorityElement.cpp) | * 40%
 70 | [ Valid Parenthesis ]  (https://leetcode.com/problems/valid-parentheses/) | Stack | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/Stack/ValidParenthesis.cpp) | 
 71 | [ Maximum Product of Word legths ]  (https://leetcode.com/problems/maximum-product-of-word-lengths/) | Strings | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/strings/maxProductWordLength.cpp) | * [TIME LIMIT EXCEEDED]
+72 | [ Fraction to Recurring Decimal ]  (https://leetcode.com/problems/fraction-to-recurring-decimal/) | Strings, Math | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/math/fractionToReccuringDecimal.cpp) | 
+
