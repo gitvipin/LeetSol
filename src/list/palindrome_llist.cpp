@@ -5,6 +5,16 @@ Problem : https://leetcode.com/problems/palindrome-linked-list/
 --------------------------------------------------------
 NOTE: Change the value of __RESTORE_LIST to 1 to have the netlist restored to original.
 */
+
+/*
+There are multiple ways to solve this problem. 
+
+Soln (1) : Calculate List length. From the middle half, copy the second half into the stack. Now Scan first half and keep matching 
+& popping the stack top. If all match, a palindrome. 
+
+Soln (2) : Reverse the second half in the list, now run two pointers and match nodes. Reverse second half again if List integrity has
+to be maintained. 
+*/
 #define __RESTORE_LIST	0
 
 ListNode *reverseR(ListNode *head) {
