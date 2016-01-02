@@ -40,21 +40,11 @@ bool isAnagram(string s, string t) {
 
     std::map<char, int> smap, tmap;
 
-    for (size_t i = 0; i < sl; i++) {
-        char ch = s[i];
-        if (smap.find(ch) == smap.end())
-            smap[ch] = 1;
-        else
-            smap[ch]++;
-    }
+    for (size_t i = 0; i < sl; i++) 
+        smap[s[i]]++;
 
-    for (size_t i = 0; i < tl; i++) {
-        char ch = t[i];
-        if (tmap.find(ch) == tmap.end())
-            tmap[ch] = 1;
-        else
-            tmap[ch]++;
-    }
+    for (size_t i = 0; i < tl; i++) 
+        tmap[t[i]]++;
 
     map<char, int>::iterator siter , titer;
     siter = smap.begin();
@@ -62,7 +52,7 @@ bool isAnagram(string s, string t) {
 
     for (; siter != smap.end() && titer != tmap.end();) {
         if (siter->first != titer->first)
-            return true;
+            return false;
         if (siter->second != titer->second)
             return false;
         siter++;
