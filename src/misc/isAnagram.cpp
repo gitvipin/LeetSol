@@ -27,43 +27,29 @@ hash-map for two strings are equal, return true else return false.
 */
 
 bool isAnagram(string s, string t) {
+        
     if (s.empty() && t.empty())
         return true;
 
-    size_t sl = s.length();
-    size_t tl = t.length();
-
     /*  Note that length in std::string is precomputed so it doesn't put performance penalty and it is a good 
         check to gain performance. */
-    if (sl != tl)
+    if (s.length() != t.length())
         return false;
+    
+    std::unordered_map<char, int> smap;
+    
+    for (auto i = s.begin(); i != s.end(); i++) 
+        smap[*i]++;
 
-    std::map<char, int> smap, tmap;
+    for (auto i = t.begin(); i != t.end(); i++) 
+        smap[*i]--;
 
-    for (size_t i = 0; i < sl; i++) 
-        smap[s[i]]++;
-
-    for (size_t i = 0; i < tl; i++) 
-        tmap[t[i]]++;
-
-    map<char, int>::iterator siter , titer;
-    siter = smap.begin();
-    titer = tmap.begin();
-
-    for (; siter != smap.end() && titer != tmap.end();) {
-        if (siter->first != titer->first)
+    for (auto iter = smap.begin(); iter != smap.end(); iter++)
+        if (iter->second)
             return false;
-        if (siter->second != titer->second)
-            return false;
-        siter++;
-        titer++;
+            
+    return true;
     }
-
-    if (siter == smap.end() &&  titer == tmap.end())
-        return true;
-    else
-        return false;
-}
 
 
 
