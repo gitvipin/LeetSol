@@ -17,7 +17,7 @@ Num | Problem | Tags | Solution | Revisit | Notes
 5 | [Remove duplicates from the List]  (https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/removeDuplicates.cpp) | | Y
 6 | [Check if Int is palindrom]  (https://leetcode.com/problems/palindrome-number/) |Miscellaneous, int | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/int_palindrome.cpp) | | Y
 7 | [Strings : Is valid anagram]  (https://leetcode.com/problems/valid-anagram/) |Miscellaneous, string | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/isAnagram.cpp) |* | Y
-8 | [Int : Is power of two]  (https://leetcode.com/problems/power-of-two/) |Miscellaneous, int | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/powerOfTwo.cpp)
+8 | [Int : Is power of two]  (https://leetcode.com/problems/power-of-two/) |Miscellaneous, int | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/powerOfTwo.cpp) | | Y
 9 | [Strings : Summary Ranges]  (https://leetcode.com/problems/summary-ranges/) |Miscellaneous, strings | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/summaryRanges.cpp)
 10 | [Gas Station]  (https://leetcode.com/problems/gas-station/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/circuitTraverse.cpp)
 11 | [Lowest common ancestor for Binary Search tree]  (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/bst_ancestor.cpp)
