@@ -1,7 +1,11 @@
 /*
-Problem : https://leetcode.com/problems/invert-binary-tree/
+solution for  : https://leetcode.com/problems/invert-binary-tree/
 */
 
+
+/*
+A simple DFS based, pre-order traversal of tree with swapping each of the left and right pointers of every node.
+*/
 TreeNode* invertTree(TreeNode* root) {
     if (!root)
         return NULL;
