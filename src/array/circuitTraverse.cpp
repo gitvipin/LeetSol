@@ -1,5 +1,23 @@
-//https://leetcode.com/problems/gas-station/
+/*
+Solution for : https://leetcode.com/problems/gas-station/
+*/
 
+
+/*
+Compute the net gain of gas at every station. Net gain is amount of gas you receive at this station - amount of gas you need for moving
+to next station. 
+
+1) To complete the circle, you need to have sum of all these next gains to be positive. If this sum is negative, there is no solution.
+
+HELP: http://stackoverflow.com/questions/2286849/algorithm-for-truck-moving-around-a-circle-of-gas-stations
+2) You pick the station next to the station which has the smallest Sum of net positive ( net gain ).
+*/
+
+/*
+POOR: Following solution is poor one and exhaustive one. It is O(n*2) . It is checking condition (1) as an early check and then trying
+to find from possible stations if a circle is possible (extremely poor).
+
+*/
 int canCompleteCircuit(std::vector<int>& gas, std::vector<int>& cost) {
     unsigned count = gas.size();
     if (count != cost.size())
