@@ -1,3 +1,18 @@
+/*
+Solution for : https://leetcode.com/problems/linked-list-cycle-ii/
+*/
+
+
+/*
+(1) First detect the loop.
+
+ If loop is there
+ (2) Find length of the loop
+ (3) Now move on pointer "length" times from "head"
+ (4) When one pointer has moved , length from head start another from head. 
+ (5) Place where they both meet is the head of the loop
+*/
+
 ListNode *getLoopHead(ListNode *head, ListNode *pLoop) {
     ListNode *p1, *p2;
     int length = 1;
