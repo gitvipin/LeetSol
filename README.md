@@ -28,8 +28,8 @@ Num | Problem | Tags | Solution | Revisit | Notes
 16 | [Remove Nth element from the end of list]  (https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/removeNthFromEnd.cpp)
 17 | [Merge two sorted lists]  (https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/removeNthFromEnd.cpp)
 18 | [Insertion Sort : Linked List]  (https://leetcode.com/problems/insertion-sort-list/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/insertionSortList.cpp)
-19 | [ Get cycle loop head ]  (https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/loopHead.cpp)
-20 | [ check if list has cycle ]  (https://leetcode.com/problems/linked-list-cycle/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/hasCycle.cpp)
+19 | [ Get cycle loop head ]  (https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/loopHead.cpp) | | Y
+20 | [ check if list has cycle ]  (https://leetcode.com/problems/linked-list-cycle/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/hasCycle.cpp) | | Y
 21 | [ Reverse subset of List ]  (https://leetcode.com/problems/reverse-linked-list-ii/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/reverseListSubset.cpp)
 22 | [ Keep only unique elements. Remove duplicate elements. ]  (https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/keepUniqueList.cpp)
 23 | [ Swap adjacent nodes in Linked list ]  (https://leetcode.com/problems/swap-nodes-in-pairs/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/swapNodes.cpp)
