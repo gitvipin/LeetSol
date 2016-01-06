@@ -26,6 +26,9 @@ void findR(TreeNode *root, int level, set<int> &mark, vector<int> & v)
         v.push_back(root->val);
         mark.insert(level);
     }
+    
+    // We need to descend through both the branches as we don't know which path will lead to next
+    // right most node.
     findR(root->right, level+1, mark, v);
     findR(root->left, level+1, mark, v);
 }
