@@ -22,8 +22,8 @@ Num | Problem | Tags | Solution | Revisit | Notes
 10 | [Gas Station]  (https://leetcode.com/problems/gas-station/) | Array | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/circuitTraverse.cpp)
 11 | [Lowest common ancestor for Binary Search tree]  (https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/bst_ancestor.cpp) | | Y
 12 | [Invert Binary tree - Chiral tree]  (https://leetcode.com/problems/invert-binary-tree/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/invertTree.cpp) | | Y
-13 | [Path Sum]  (https://leetcode.com/problems/path-sum/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/pathsum.cpp)
-14 | [Binary Tree Right view]  (https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/rightview.cpp)
+13 | [Path Sum]  (https://leetcode.com/problems/path-sum/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/pathsum.cpp) | | Y
+14 | [Binary Tree Right view]  (https://leetcode.com/problems/binary-tree-right-side-view/) | Binary Tree | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/btree/rightview.cpp) | | Y
 15 | [Merge two sorted linked lists]  (https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/mergSortedLists.cpp)
 16 | [Remove Nth element from the end of list]  (https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/removeNthFromEnd.cpp)
 17 | [Merge two sorted lists]  (https://leetcode.com/problems/merge-two-sorted-lists/) | Linked List | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/list/removeNthFromEnd.cpp)
