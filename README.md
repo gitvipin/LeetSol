@@ -83,3 +83,4 @@ Num | Problem | Tags | Solution | Revisit | Notes
 71 | [ Maximum Product of Word legths ]  (https://leetcode.com/problems/maximum-product-of-word-lengths/) | Strings | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/strings/maxProductWordLength.cpp) | * [TIME LIMIT]
 72 | [ Fraction to Recurring Decimal ]  (https://leetcode.com/problems/fraction-to-recurring-decimal/) | Strings, Math | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/math/fractionToReccuringDecimal.cpp) | 
 73 | [ Permutations ]  (https://leetcode.com/problems/permutations/) | Recursion, Backtracking | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/Permutations.cpp) | 
+74 | [ Rotate Array ]  (https://leetcode.com/problems/rotate-array/) | Array, Misc | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/rotateArray.cpp) | 
