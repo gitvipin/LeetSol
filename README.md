@@ -84,3 +84,5 @@ Num | Problem | Tags | Solution | Revisit | Notes
 72 | [ Fraction to Recurring Decimal ]  (https://leetcode.com/problems/fraction-to-recurring-decimal/) | Strings, Math | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/math/fractionToReccuringDecimal.cpp) | 
 73 | [ Permutations ]  (https://leetcode.com/problems/permutations/) | Recursion, Backtracking | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/misc/Permutations.cpp) | 
 74 | [ Rotate Array ]  (https://leetcode.com/problems/rotate-array/) | Array, Misc | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/rotateArray.cpp) | <1% | Y| 
+75 | [ Largest Increasing Sequnce ]  (??) | Array, Misc | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/largestInterval.cpp) | ?? | Y| 
+76 | [ Most Frequent Item ]  (??) | Array, Misc | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/mostFrequent.cpp) | ?? | Y| 
