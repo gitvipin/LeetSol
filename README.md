@@ -86,3 +86,9 @@ Num | Problem | Tags | Solution | Revisit | Notes
 74 | [ Rotate Array ]  (https://leetcode.com/problems/rotate-array/) | Array, Misc | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/rotateArray.cpp) | <1% | Y| 
 75 | [ Largest Increasing Sequnce ]   | Array, Misc | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/largestInterval.cpp) | ?? | Y| 
 76 | [ Most Frequent Item ]   | Array, Misc | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/src/array/mostFrequent.cpp) | ?? | Y| 
+
+SQL Puzzles
+
+Num | Problem | Tags | Solution | Revisit | Notes
+:-------------: | :------------- | :------------- | :------------- | :------------- | :-------------
+1 | [Employees earning more than their Managers]  (https://leetcode.com/problems/employees-earning-more-than-their-managers/)| SQL Variables | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/db/sql/EmpMngrSalary.sql) | | Y
