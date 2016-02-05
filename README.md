@@ -93,3 +93,4 @@ Num | Problem | Tags | Solution | Revisit | Notes
 :-------------: | :------------- | :------------- | :------------- | :------------- | :-------------
 1 | [Employees earning more than their Managers]  (https://leetcode.com/problems/employees-earning-more-than-their-managers/)| SQL Variables | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/db/sql/EmpMngrSalary.sql) | | Y
 2 | [Duplicate Emails]  (https://leetcode.com/problems/duplicate-emails/)| SQL, Self Join | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/db/sql/duplicateEmails.sql) | | Y
+3 | [Customers Who Never Order]  (https://leetcode.com/problems/customers-who-never-order/)| SQL, Self Join | [Solution] (https://github.com/gitvipin/LeetSol/blob/master/db/sql/nonPayingCustomers.sql) | | Y
