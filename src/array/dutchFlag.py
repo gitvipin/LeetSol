@@ -3,6 +3,32 @@
 Solution for : https://leetcode.com/problems/sort-colors/description/
 '''
 
+def dutchFlag(arr):
+    '''
+    Sorts three type of elements in an array in a single scan.
+
+    It is simple. Keep 3 pointers in array. First one marks the end
+    of first type of elements, third marks the beginning of third type
+    of elements and second one just simply iterates over the array.
+
+    Note that iterator is incremented in case match is found for first
+    two cases while not incremented when match is for third type of
+    element.
+    '''
+    zero, two = 0, len(arr) -1
+
+    idx = 0
+    while (idx < two):
+        if arr[idx] == 0:
+            arr[idx], arr[zero] = arr[zero], arr[idx]
+            idx +=1
+            zero +=1
+        elif arr[idx] == 1:
+            idx+=1
+        elif arr[idx] == 2:
+            arr[idx], arr[two] = arr[two], arr[idx]
+            two -=1
+
 class Solution(object):
     def sortColors(self, nums):
         """
