@@ -42,9 +42,11 @@ void insert_node(BTree *root, int data) {
 
 int is_BST_R(BTree *root, BTree *left, BTree *right){
 
-    if (!(left && root->data >= left->data))
+    if (!root)
+        return true;
+    if (left && root->data < left->data)
         return false;
-    if (!(right && root->data < right->data))
+    if (right && root->data >= right->data)
         return false;
     return is_BST_R(root->left , left, root) &&
         is_BST_R(root->right, root, right);
@@ -54,7 +56,7 @@ int is_BST(BTree *root) {
     if (!root)
         return true;
     else
-        is_BST_R(root, NULL, NULL);
+        return is_BST_R(root, NULL, NULL);
 }
 
 
@@ -108,6 +110,49 @@ void print_arr(int data[], int len) {
     printf(" [x] \n");
 }
 
+
+void make_mirror(BTree *root) {
+    if (!root)
+        return;
+
+    BTree *temp = root->right;
+
+    root->right = root->left;
+    root->left = temp;
+
+    make_mirror(root->left);
+    make_mirror(root->right);
+}
+
+int is_mirror(BTree *tree1, BTree *tree2) {
+    if (!tree1 && !tree2)
+        return true;
+    else if (!tree1 || !tree2)
+        return false;
+    else if (tree1->data != tree2->data)
+        return false;
+    else
+        return is_mirror(tree1->left , tree2->right) &&
+            is_mirror(tree1->right, tree2->left);
+}
+
+
+void chiral() {
+    int data[] = {1,23,6,9,32,3};
+    int len = sizeof (data) / sizeof (data[0]);
+
+    BTree *ltree = build_tree(data, len);
+    BTree *rtree = build_tree(data, len);
+
+    BTree *root = getNode(15);
+
+    root->left = ltree;
+    root->right = rtree;
+    make_mirror(root->right);
+
+    printf ("\n%s", is_mirror(root->left, root->right) ? "IS CHIRAL": "NOT CHIRAL");
+}
+
 int main (int argc , char *argv[]) {
     int data[] = {1,23,6,9,32,3,45,67, 1, 23, 6};
     int len = sizeof (data) / sizeof (data[0]);
@@ -115,10 +160,18 @@ int main (int argc , char *argv[]) {
     print_arr(data, len);
 
     BTree *root = build_tree(data, len);
+
+    // Check Traversals
     in_order(root);
     pre_order(root);
 
-    printf("%s", is_BST(root) ? "Is Binary" : "Not Binary");
+    // Check if Binary Tree
+    printf("\n%s", is_BST(root) ? "Is BST" : "Not BST");
+
+    // Check if mirror
+    chiral();
+
+
 
     return 0;
 }
